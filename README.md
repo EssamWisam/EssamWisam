@@ -45,20 +45,37 @@
 
   <div align='center'>
    <h2> 💬 Get in touch 💬 </h2>
+  <a href="mailto: essamwisam@outlook.com"> 
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="E-mail" />
+  </a>
+    <a href="https://www.linkedin.com/in/essamwisam/"> 
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />
+        </a>
+    <a href="https://www.facebook.com/EssamWsam/"> 
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="50" title="Facebook" />
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord" />
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="50" title="Zoom" />
+        </a>
+      <a href=""> 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord - Add Malzahar #4907" />
+          </a>
+        <a href="https://stackexchange.com/users/11739301/malzahar"> 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="50" title="Stack Exchange" />
+            </a>
+         <a href="https://stackoverflow.com/users/13076747/essam"> 
  <img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="50" title="StackOverflow" />
+             </a>
   </div>
 
 <div align='center'>
    <h2> 🌌 Explore More 🌌 </h2>
+  <a href="https://drive.google.com/drive/folders/1qnVLYeB8J3iT8yGGWpyhPE2nYT3nYQ15?usp=sharing"
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="50" title="Google drive" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCP9Lx4AHWhjFkewMT3zrRpA">
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="50" title="YouTube" />
+  </a>
+    <a href="https://essamamin99.medium.com/">
    <img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="50" title="Medium" />
+  </a>
 
   </div>
   
@@ -68,6 +85,7 @@
   </div>
 
 
+![](https://komarev.com/ghpvc/?username=EssamWisam&color=red)
 
 
 
