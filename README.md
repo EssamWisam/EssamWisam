@@ -9,7 +9,7 @@
 
 
 <div align='center'> 
-  <h2> 👨🏻‍🔧 Featured School* Project  👩🏻‍🔬</h2>
+  <h2> 👨🏻‍🔧 Featured* Projects  👩🏻‍🔬</h2>
     <a href="https://github.com/EssamWisam/Curve-Fitting">
     <img src="Assets/Logo For Dark.png" height="130" title="True developers have their Github on dark mode.">
   </a>
