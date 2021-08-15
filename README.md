@@ -11,19 +11,23 @@
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured* Projects  👩🏻‍🔬</h2>
     <a href="https://github.com/EssamWisam/Curve-Fitting">
-    <img src="Assets/Logo For Dark.png" height="130" title="True developers have their Github on dark mode.">
+    <img src="Assets/Logo For Dark.png" height="130" title="True developers have their Github on dark mode. It's time for math!">
   </a>
-  <br>
+  <br><br>
       <a href="https://github.com/CompetitionPortal-Developers/Solvee">
-      <img src="Assets/GG.png" height="70">
+      <img src="Assets/GG.png" height="70" title="It's time for you to host a competition.">
         </a>
-  <br>
-      <a href="https://github.com/reem-atalah/Titanic-Dispute_Assembly">
+  <br><br>
+      <a href="https://github.com/reem-atalah/Titanic-Dispute_Assembly" title="Can't play this on PS5 just yet.">
       <img src="Assets/Logo (2).png" height="180">
          </a>
-  <br>
+  <br><br>
+     <a href="https://github.com/EssamWisam/Select-Asterisk">
+    <img src="Assets/AP.png" height="140" title="Not selling to Google for any less than $10M.">
+  </a>
+  <br><br>
       <a href="https://github.com/Mostafa-wael/Power-em">
-      <img src="Assets/Logo.png" height="100" title="True developers have their Github on dark mode.">
+      <img src="Assets/Logo.png" height="100" title="True developers have their Github on dark mode. It's time for circuits!">
          </a>
   <br>
 
@@ -85,15 +89,6 @@
    <h2> 💖 Thank You 💖 </h2>
 
   </div>
-
-
-![](https://komarev.com/ghpvc/?username=EssamWisam&color=red)
-
-
-
-
-
-
 
 
 
