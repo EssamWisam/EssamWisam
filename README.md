@@ -2,7 +2,7 @@
 <img src="/Assets/GG.svg" height="80">
 
   </div>
-  <p align='justify'> I'm currently a computer engineering junior studying at Cairo University. I love being productive, I'm enamoured by science, I'm fond of spreading knowledge and collaborating with friends (whether in academics or projects). Part of my love to productivity is conveyed in devoting time to gain more experience in different things. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to machine learning, which is perhaps a consequence of my former love to math. I recently got distracted by Javascript and all the sorcery it provides and I'm thus considering either Vue or React to press on with, I believe that being well-versed in web development has its own advantages compared to learning many other things. </p>
+  <p align='justify'> I'm currently a computer engineering junior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of spreading knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to machine learningmachine learning, which is perhaps a consequence of my former love to math. I recently got distracted by Javascript and all the sorcery it provides, I believe that being well-versed in web development has its own advantages compared to learning many other things. </p>
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EssamWisam)](https://github.com/anuraghazra/github-readme-stats)
  
