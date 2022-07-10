@@ -9,27 +9,41 @@
 
 
 <div align='center'> 
-  <h2> 👨🏻‍🔧 Featured* Projects  👩🏻‍🔬</h2>
-    <a href="https://github.com/EssamWisam/Curve-Fitting">
-    <img src="Assets/Logo For Dark.png" height="130" title="True developers have their Github on dark mode. It's time for math!">
+  <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
+      <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
+  <img width="1261" alt="image" src="https://user-images.githubusercontent.com/49572294/178153051-34179648-8083-4943-b84d-428333594172.png">
   </a>
-  <br><br>
-      <a href="https://github.com/CompetitionPortal-Developers/Solvee">
-      <img src="Assets/GG.png" height="70" title="It's time for you to host a competition.">
+
+<br>
+    <a href="https://github.com/abdullahalshawafi/Mathemati_">
+    <img width="1218" alt="image" src="https://user-images.githubusercontent.com/49572294/178153234-378e7e28-6cc8-44a8-bfa8-bb59cfe37097.png">
+  </a>
+  <br>
+      <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
+      <img width="1218" alt="image" src="https://user-images.githubusercontent.com/49572294/178153277-c5e31687-a0f1-4f84-ba7e-b10bc6671b35.png">
         </a>
-  <br><br>
+    <br>
+      <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Front-end">
+      <img width="1014" alt="image" src="https://user-images.githubusercontent.com/49572294/178154316-4b0c6de8-f18b-488e-8d4c-887ed1a6e1aa.png">
+        </a>
+    <br>
+      <a href="https://github.com/AhmadJamal01/Galaxy-Surfers">
+      <img width="1043" alt="image" src="https://user-images.githubusercontent.com/49572294/178153839-5bec19de-340d-48e5-a18f-24ea23212a76.png">
+        </a>
+        
+  <br>
       <a href="https://github.com/reem-atalah/Titanic-Dispute_Assembly" title="Can't play this on PS5 just yet.">
-      <img src="Assets/Logo (2).png" height="180">
-         </a>
-  <br><br>
-     <a href="https://github.com/EssamWisam/Select-Asterisk">
-    <img src="Assets/AP.png" height="140" title="Not selling to Google for any less than $10M.">
-  </a>
-  <br><br>
-      <a href="https://github.com/Mostafa-wael/Power-em">
-      <img src="Assets/Logo.png" height="100" title="True developers have their Github on dark mode. It's time for circuits!">
+      <img width="1016" alt="image" src="https://user-images.githubusercontent.com/49572294/178154018-e554ad43-2337-4ebf-921e-5d3d39403ade.png">
          </a>
   <br>
+     <a href="https://github.com/EssamWisam/Select-Asterisk">
+     <img width="1088" alt="image" src="https://user-images.githubusercontent.com/49572294/178154508-2e2989be-5ee7-4917-b9b8-cde45c88d99b.png">
+  <br>
+    <a href="https://github.com/CompetitionPortal-Developers/Solvee">
+    <img width="1156" alt="image" src="https://user-images.githubusercontent.com/49572294/178154527-ee25bd64-b172-4b42-ab9d-2a2c39f15153.png">
+
+</a>
+  <br><br>
 
 </div>
 
