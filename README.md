@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=timeGradient)
 
   </div>
-  <p align='justify'> I'm currently a computer engineering senior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of sharing knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to Python and machine learning, which is perhaps a consequence of my former love to math. I always like to make what I'm working on to be besides flawless, as beatiful and as useful as possible which also explains my love to Javascript and web development.</p>
+  <p align='justify'> I'm currently a computer engineering senior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of sharing knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to Python and machine learning, which is perhaps a consequence of my former love to math. I always like to make what I'm working on to be besides flawless, as beautiful and as useful as possible which also explains my love to Javascript and web development.</p>
   
 
 
