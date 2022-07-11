@@ -6,11 +6,11 @@
   <p align='justify'> I'm currently a computer engineering senior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of sharing knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to Python and machine learning, which is perhaps a consequence of my former love to math. I always like to make what I'm working on to be besides flawless, as beatiful and as useful as possible which also explains my love to Javascript and web development.</p>
   
 
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
- 
+[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
       <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
