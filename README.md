@@ -49,12 +49,16 @@
 
 <div align='center'>
     <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" />
+      <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="50" title="Sass" />
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
+
+
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/mac-os.svg" width="50" title="Mac OS" />
+![image](https://user-images.githubusercontent.com/49572294/178233137-0003e19e-5bc3-4a25-aa8d-2ebb38dc8d4d.png)
 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="50" title="Microsoft Windows" />
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" />
