@@ -108,7 +108,6 @@
   
  <a target="_blank" href="https://medium.com/towards-data-science/implementing-backpropagation-with-style-in-python-da4c2f49adb4"><img width='1000px' src="https://github-readme-medium-recent-article.vercel.app/medium/@essamwissam/2" > 
  
-  <a target="_blank" href="https://medium.com/towards-data-science/why-least-squares-regression-whats-with-the-l1-norm-criterion-51e8b7f905eb"><img width='1200px'  src="https://github-readme-medium-recent-article.vercel.app/medium/@essamwissam/5" > 
 
   
   <div align='center'>
