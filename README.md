@@ -2,12 +2,8 @@
 <img src="/Assets/GG.svg" height="80">
 
   </div>
-  <p align='justify'> I'm currently a computer engineering junior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of spreading knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to machine learningmachine learning, which is perhaps a consequence of my former love to math. I recently got distracted by Javascript and all the sorcery it provides. I do believe that being well-versed in web development has its own advantages compared to learning many other things. </p>
+  <p align='justify'> I'm currently a computer engineering senior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of sharing knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to Python and machine learning, which is perhaps a consequence of my former love to math. I always like to make what I'm working on to be besides flawless, as beatiful and as useful as possible which also explains my love to Javascript and web development.</p>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EssamWisam)](https://github.com/anuraghazra/github-readme-stats)
- 
-
-
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
       <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
@@ -57,9 +53,7 @@
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
 
 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/mac-os.svg" width="50" title="Mac OS" />
-![image](https://user-images.githubusercontent.com/49572294/178233137-0003e19e-5bc3-4a25-aa8d-2ebb38dc8d4d.png)
-
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="50" title="macOS"/>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="50" title="Microsoft Windows" />
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" />
 </div>
