@@ -15,8 +15,8 @@
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
   
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
-<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215481924-fa953c71-7857-4656-a7a1-5e1d66e1c8ae.png">
-</a>
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215482553-27aa95dd-b0b5-4cf8-9fd7-2ba63e3c4ff3.png">
+  </a>
 
 
   <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
@@ -51,12 +51,7 @@
 
   <a href="https://github.com/KeyTeachingKnowledge/Quizzery-React-Native">
 
-<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215481480-2de3812b-9b79-4db2-8009-1209769ee89f.png">     
-  
-  </a>
-
-
-  <br>
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215483639-d2d422ac-c3ea-426c-99cb-65762e9efbf7.png">  </a>
     <a href="https://github.com/CompetitionPortal-Developers/Solvee">
     <img width="1156" alt="image" src="https://user-images.githubusercontent.com/49572294/178154527-ee25bd64-b172-4b42-ab9d-2a2c39f15153.png">
 
