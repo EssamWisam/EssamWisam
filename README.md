@@ -15,8 +15,8 @@
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
   
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
-<img width="1193" alt="image" src="https://user-images.githubusercontent.com/49572294/215480233-538a15d3-f294-4b54-98e8-57fc731d72cf.png">   
-  </a>
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215481924-fa953c71-7857-4656-a7a1-5e1d66e1c8ae.png">
+</a>
 
 
   <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
