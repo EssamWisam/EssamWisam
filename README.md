@@ -13,7 +13,13 @@
 
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
-      <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
+  
+  <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/49572294/215480233-538a15d3-f294-4b54-98e8-57fc731d72cf.png">   
+  </a>
+
+
+  <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
   <img width="1261" alt="image" src="https://user-images.githubusercontent.com/49572294/178153051-34179648-8083-4943-b84d-428333594172.png">
   </a>
 
@@ -41,6 +47,15 @@
   <br>
      <a href="https://github.com/EssamWisam/Select-Asterisk">
      <img width="1088" alt="image" src="https://user-images.githubusercontent.com/49572294/178154508-2e2989be-5ee7-4917-b9b8-cde45c88d99b.png">
+       </a>
+
+  <a href="https://github.com/KeyTeachingKnowledge/Quizzery-React-Native">
+
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215481480-2de3812b-9b79-4db2-8009-1209769ee89f.png">     
+  
+  </a>
+
+
   <br>
     <a href="https://github.com/CompetitionPortal-Developers/Solvee">
     <img width="1156" alt="image" src="https://user-images.githubusercontent.com/49572294/178154527-ee25bd64-b172-4b42-ab9d-2a2c39f15153.png">
