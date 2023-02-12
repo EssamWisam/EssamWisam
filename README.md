@@ -14,6 +14,10 @@
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
   
+  <a href="https://github.com/EssamWisam/MLPath" >
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/218323532-e101ead0-c435-4410-9f6d-a5c745235076.png">
+  </a>
+  
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
 <img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215482553-27aa95dd-b0b5-4cf8-9fd7-2ba63e3c4ff3.png">
   </a>
