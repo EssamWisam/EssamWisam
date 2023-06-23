@@ -3,17 +3,18 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=timeGradient)
 
   </div>
-  <p align='justify'> I'm currently a computer engineering senior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of sharing knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to Python and machine learning, which is perhaps a consequence of my former love to math. I always like to make what I'm working on to be besides flawless, as beautiful and as useful as possible which also explains my love to Javascript and web development.</p>
-  
+  <p align='center'> I'm a computer engineering senior student at Cairo University with a strong academic background and hands-on experience in machine learning, deep learning and data science. I have a deep aspiration to make things as flawless, useful and beautiful as possible and I greatly value spreading knowledge, collaborating and communicating with others.
+   </p>
 
 
 [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+  #### Note: all READMEs in my profile (including this) assume you use Github dark mode. 
+
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
-  
   <a href="https://github.com/EssamWisam/MLPath" >
 <img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/218323532-e101ead0-c435-4410-9f6d-a5c745235076.png">
   </a>
@@ -67,11 +68,12 @@
 <div align='center'>
     <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
       <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="50" title="Julia" />
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" />
+          <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="50" title="React" />
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="50" title="Sass" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
 
 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="50" title="macOS"/>
@@ -117,6 +119,9 @@
 
 
   </div>
+<br>
+<p align='center'><i > "We have some catching up to do in the area of machine learning and artificial intelligence. -Klaus Froehlich
+" </i></p>
   
  ## Check out Recent Blogs
   
