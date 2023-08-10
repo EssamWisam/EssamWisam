@@ -18,11 +18,13 @@
 
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
-
-<a href="https://github.com/TheBotiverse/Botiverse" >
-<img width="1049" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/b09272b6-e2fb-4662-a42c-8f7efe3a5276"/>
-</a>
-
+  
+  <a href="https://github.com/TheBotiverse/Botiverse" >
+    <div>
+<img width="1094" alt="image" src="https://i.imgur.com/PalQ4S9.png">
+    </div>
+  </a>
+  
   <a href="https://github.com/EssamWisam/MLPath" >
 <img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/218323532-e101ead0-c435-4410-9f6d-a5c745235076.png">
   </a>
