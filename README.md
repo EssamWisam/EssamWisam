@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=timeGradient)
 
   </div>
-  <p align='center'> I'm a computer engineering senior student at Cairo University with a strong academic background and hands-on experience in machine learning, deep learning and data science. I have a deep aspiration to make things as flawless, useful and beautiful as possible and I greatly value spreading knowledge, collaborating and communicating with others.
+  <p align='center'> I'm a computer engineer with a strong academic background and hands-on experience in machine learning, deep learning and data science. I have a deep aspiration to make things as flawless, useful and beautiful as possible and I greatly value spreading knowledge, collaborating and communicating with others.
    </p>
 
 <div align='center'>
