@@ -12,7 +12,7 @@
 <div align='center'>
   
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg">
 </picture>
 
@@ -42,50 +42,50 @@
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
   <a href="https://github.com/JuliaAI/Imbalance.jl">
-      <img height="180" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f2e1cb95-713a-4d7d-897b-22918a7d0e6c"/>
+      <img height="180" src="https://i.imgur.com/L7imaTX.png"/>
   </a>
   <a href="https://github.com/TheBotiverse/Botiverse" >
-      <img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/87ee4f65-1035-4394-b011-a426ef20d166"/>
+      <img height="76" src="https://i.imgur.com/5Lje2Ji.png"/>
   </a>
   
   <a href="https://github.com/EssamWisam/MLPath" >
-      <img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
+      <img height="76" src="https://i.imgur.com/x9O3BSy.png"/>
   </a>
   
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
-      <img height="75" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/79b156c0-91fd-4c60-a588-defa21056c98"/>
+      <img height="75" src="https://i.imgur.com/xKZ5KLe.png"/>
   </a>
 
   <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
-     <img height="75" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/9d7449d6-444f-46ad-a576-83f6d760b176"/>
+     <img height="75" src="https://i.imgur.com/AXwv4dB.png"/>
   </a>
 
   <a href="https://github.com/abdullahalshawafi/Mathemati_">
-    <img height="110" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/36b3b09f-53ff-45c0-9b8a-14d7c35a9659"/>
+    <img height="110" src="https://i.imgur.com/SWpvlvh.png"/>
   </a>
     <a href="https://github.com/reem-atalah/Titanic-Dispute_Assembly" title="Can't play this on PS5 just yet.">
-    <img height="110" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f4a98c65-b5e6-429d-aa00-d5adf681f620"/>
+    <img height="110" src="https://i.imgur.com/5GVg7LP.png"/>
   </a>
     <a href="https://github.com/EssamWisam/Select-Asterisk">
-  <img height="82" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/4a1c3845-f832-40d5-8179-48f50e090af3"/>
+  <img height="82" src="https://i.imgur.com/eGsRaBD.png"/>
   </a>
   <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Front-end">
-    <img height="82" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/6d6b3709-51bb-47b4-a7bf-61fc6745aa2e"/>
+    <img height="82" src="https://i.imgur.com/A83fqc9.png"/>
   </a>
 
   <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
-<img height="73" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/b6be8ea9-1c60-47e4-ae98-fdfa17808824"/>
+<img height="73" src="https://i.imgur.com/gMJew6v.png"/>
 
   </a>
     <a href="https://github.com/AhmadJamal01/Galaxy-Surfers">
-<img height="73" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/71be96fa-ae20-4b6c-975b-1d9948e28549"/>
+<img height="73" src="https://i.imgur.com/lLAFzEM.png"/>
     </a>
       
   <a href="https://github.com/KeyTeachingKnowledge/Quizzery-React-Native">
-    <img height="85" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/d1226d3e-9684-4d30-af91-b6b5a3657753"/>
+    <img height="85" src="https://i.imgur.com/RuuYUrF.png"/>
   </a>
   <a href="https://github.com/CompetitionPortal-Developers/Solvee">
-    <img height="85" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/21a53205-ea2c-40ac-b842-39101d5cbd93"/>
+    <img height="85" src="https://i.imgur.com/uxFeriB.png"/>
   </a>
 <br>
 More/other projects can be found on my resume.
