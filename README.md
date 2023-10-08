@@ -1,6 +1,9 @@
 <div align='center'>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:E00F00,100:a823a8&fontColor=ffffff"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:Ef0F0f,10f:a823a8&fontColor=ffffff">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:EF0FF0,100:a823a8&fontColor=ffffff">
+</picture>
 
   </div>
   <p align='center'> I'm a computer engineer with a strong academic background and hands-on experience in machine learning, deep learning and data science. I have a deep aspiration to make things as flawless, useful and beautiful as possible and I greatly value spreading knowledge, collaborating and communicating with others.
@@ -8,22 +11,42 @@
 
 <div align='center'>
   
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+</picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+</picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+</picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/3-stats.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/3-stats.svg">
+</picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/4-productive-time.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg">
+</picture>
 
 </div>
 
-  #### Note: all READMEs in my profile (including this) assume you use Github dark mode. 
 
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
   <a href="https://github.com/TheBotiverse/Botiverse" >
-<img height="80" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/7418d7af-f5d1-4258-8516-768bebc5012e"/>
+<img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/87ee4f65-1035-4394-b011-a426ef20d166"/>
   </a>
   
   <a href="https://github.com/EssamWisam/MLPath" >
-  <img height="80" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
+  <img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
   </a>
   
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
@@ -47,7 +70,6 @@
     <img height="82" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/6d6b3709-51bb-47b4-a7bf-61fc6745aa2e"/>
     </a>
 
-  
   <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
 <img height="73" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/b6be8ea9-1c60-47e4-ae98-fdfa17808824"/>
 
@@ -62,6 +84,8 @@
   <a href="https://github.com/CompetitionPortal-Developers/Solvee">
     <img height="85" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/21a53205-ea2c-40ac-b842-39101d5cbd93"/>
   </a>
+<br>
+  This only shows a selection of interesting projects I have worked/collaborated on. More/other projects can be found on my resume.
 </div>
 
 <div align='center'>
