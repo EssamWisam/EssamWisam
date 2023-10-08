@@ -19,48 +19,48 @@
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
   <a href="https://github.com/TheBotiverse/Botiverse" >
-<img height="100" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/7418d7af-f5d1-4258-8516-768bebc5012e"/>
+<img height="80" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/7418d7af-f5d1-4258-8516-768bebc5012e"/>
   </a>
   
   <a href="https://github.com/EssamWisam/MLPath" >
-  <img height="100" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
+  <img height="80" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
   </a>
   
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
-  <img height="95" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/79b156c0-91fd-4c60-a588-defa21056c98"/>
+  <img height="75" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/79b156c0-91fd-4c60-a588-defa21056c98"/>
   </a>
 
   <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
-     <img height="95" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/9d7449d6-444f-46ad-a576-83f6d760b176"/>
+     <img height="75" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/9d7449d6-444f-46ad-a576-83f6d760b176"/>
   </a>
 
   <a href="https://github.com/abdullahalshawafi/Mathemati_">
-    <img height="136" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/36b3b09f-53ff-45c0-9b8a-14d7c35a9659"/>
+    <img height="110" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/36b3b09f-53ff-45c0-9b8a-14d7c35a9659"/>
   </a>
     <a href="https://github.com/reem-atalah/Titanic-Dispute_Assembly" title="Can't play this on PS5 just yet.">
-    <img height="136" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f4a98c65-b5e6-429d-aa00-d5adf681f620"/>
+    <img height="110" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f4a98c65-b5e6-429d-aa00-d5adf681f620"/>
   </a>
     <a href="https://github.com/EssamWisam/Select-Asterisk">
-  <img height="102" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/4a1c3845-f832-40d5-8179-48f50e090af3"/>
+  <img height="82" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/4a1c3845-f832-40d5-8179-48f50e090af3"/>
   </a>
   <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Front-end">
-    <img height="102" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/6d6b3709-51bb-47b4-a7bf-61fc6745aa2e"/>
+    <img height="82" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/6d6b3709-51bb-47b4-a7bf-61fc6745aa2e"/>
     </a>
 
   
   <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
-<img height="91" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/b6be8ea9-1c60-47e4-ae98-fdfa17808824"/>
+<img height="71" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/b6be8ea9-1c60-47e4-ae98-fdfa17808824"/>
 
   </a>
     <a href="https://github.com/AhmadJamal01/Galaxy-Surfers">
-<img height="91" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/71be96fa-ae20-4b6c-975b-1d9948e28549"/>
+<img height="71" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/71be96fa-ae20-4b6c-975b-1d9948e28549"/>
     </a>
       
   <a href="https://github.com/KeyTeachingKnowledge/Quizzery-React-Native">
-    <img height="105" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/d1226d3e-9684-4d30-af91-b6b5a3657753"/>
+    <img height="85" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/d1226d3e-9684-4d30-af91-b6b5a3657753"/>
   </a>
   <a href="https://github.com/CompetitionPortal-Developers/Solvee">
-    <img height="105" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/21a53205-ea2c-40ac-b842-39101d5cbd93"/>
+    <img height="85" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/21a53205-ea2c-40ac-b842-39101d5cbd93"/>
   </a>
 </div>
 
