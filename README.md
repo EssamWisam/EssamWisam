@@ -42,18 +42,18 @@
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
   <a href="https://github.com/JuliaAI/Imbalance.jl">
-  <img height="180" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f2e1cb95-713a-4d7d-897b-22918a7d0e6c"/>
+      <img height="180" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f2e1cb95-713a-4d7d-897b-22918a7d0e6c"/>
   </a>
   <a href="https://github.com/TheBotiverse/Botiverse" >
-<img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/87ee4f65-1035-4394-b011-a426ef20d166"/>
+      <img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/87ee4f65-1035-4394-b011-a426ef20d166"/>
   </a>
   
   <a href="https://github.com/EssamWisam/MLPath" >
-  <img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
+      <img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
   </a>
   
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
-  <img height="75" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/79b156c0-91fd-4c60-a588-defa21056c98"/>
+      <img height="75" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/79b156c0-91fd-4c60-a588-defa21056c98"/>
   </a>
 
   <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
@@ -71,7 +71,7 @@
   </a>
   <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Front-end">
     <img height="82" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/6d6b3709-51bb-47b4-a7bf-61fc6745aa2e"/>
-    </a>
+  </a>
 
   <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
 <img height="73" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/b6be8ea9-1c60-47e4-ae98-fdfa17808824"/>
