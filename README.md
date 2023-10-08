@@ -2,7 +2,7 @@
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:Ef0F0f,10f:a823a8&fontColor=ffffff">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:EF0FF0,100:a823a8&fontColor=ffffff">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:d823a8&fontColor=ffffff">
 </picture>
 
   </div>
@@ -13,27 +13,27 @@
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg">
 </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg">
 </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
 </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/3-stats.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/3-stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/3-stats.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/3-stats.svg">
 </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/4-productive-time.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/4-productive-time.svg">
 </picture>
 
 </div>
