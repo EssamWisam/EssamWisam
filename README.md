@@ -1,6 +1,6 @@
 <div align='center'>
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=timeGradient)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:E00F00,100:a823a8&fontColor=ffffff"/>
 
   </div>
   <p align='center'> I'm a computer engineer with a strong academic background and hands-on experience in machine learning, deep learning and data science. I have a deep aspiration to make things as flawless, useful and beautiful as possible and I greatly value spreading knowledge, collaborating and communicating with others.
@@ -8,9 +8,9 @@
 
 <div align='center'>
   
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -18,61 +18,50 @@
 
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
-  
   <a href="https://github.com/TheBotiverse/Botiverse" >
-    <div>
-<img width="1094" alt="image" src="https://i.imgur.com/PalQ4S9.png">
-    </div>
+<img height="100" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/7418d7af-f5d1-4258-8516-768bebc5012e"/>
   </a>
   
   <a href="https://github.com/EssamWisam/MLPath" >
-<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/218323532-e101ead0-c435-4410-9f6d-a5c745235076.png">
+  <img height="100" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/c322cdb4-65d6-4d3a-bdbd-e69f198953b5"/>
   </a>
   
   <a href="https://github.com/EssamWisam/Daily-Chronicle-ReactNative" >
-<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215482553-27aa95dd-b0b5-4cf8-9fd7-2ba63e3c4ff3.png">
+  <img height="95" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/79b156c0-91fd-4c60-a588-defa21056c98"/>
   </a>
-
 
   <a href="https://github.com/radwaahmed2132000/Auto-Grader" >
-  <img width="1261" alt="image" src="https://user-images.githubusercontent.com/49572294/178153051-34179648-8083-4943-b84d-428333594172.png">
+     <img height="95" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/9d7449d6-444f-46ad-a576-83f6d760b176"/>
   </a>
 
-<br>
-    <a href="https://github.com/abdullahalshawafi/Mathemati_">
-    <img width="1218" alt="image" src="https://user-images.githubusercontent.com/49572294/178153234-378e7e28-6cc8-44a8-bfa8-bb59cfe37097.png">
+  <a href="https://github.com/abdullahalshawafi/Mathemati_">
+    <img height="136" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/36b3b09f-53ff-45c0-9b8a-14d7c35a9659"/>
   </a>
-  <br>
-      <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
-      <img width="1218" alt="image" src="https://user-images.githubusercontent.com/49572294/178153277-c5e31687-a0f1-4f84-ba7e-b10bc6671b35.png">
-        </a>
-    <br>
-      <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Front-end">
-      <img width="1014" alt="image" src="https://user-images.githubusercontent.com/49572294/178154316-4b0c6de8-f18b-488e-8d4c-887ed1a6e1aa.png">
-        </a>
-    <br>
-      <a href="https://github.com/AhmadJamal01/Galaxy-Surfers">
-      <img width="1043" alt="image" src="https://user-images.githubusercontent.com/49572294/178153839-5bec19de-340d-48e5-a18f-24ea23212a76.png">
-        </a>
-        
-  <br>
-      <a href="https://github.com/reem-atalah/Titanic-Dispute_Assembly" title="Can't play this on PS5 just yet.">
-      <img width="1016" alt="image" src="https://user-images.githubusercontent.com/49572294/178154018-e554ad43-2337-4ebf-921e-5d3d39403ade.png">
-         </a>
-  <br>
-     <a href="https://github.com/EssamWisam/Select-Asterisk">
-     <img width="1088" alt="image" src="https://user-images.githubusercontent.com/49572294/178154508-2e2989be-5ee7-4917-b9b8-cde45c88d99b.png">
-       </a>
+    <a href="https://github.com/reem-atalah/Titanic-Dispute_Assembly" title="Can't play this on PS5 just yet.">
+    <img height="136" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f4a98c65-b5e6-429d-aa00-d5adf681f620"/>
+  </a>
+    <a href="https://github.com/EssamWisam/Select-Asterisk">
+  <img height="102" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/4a1c3845-f832-40d5-8179-48f50e090af3"/>
+  </a>
+  <a href="https://github.com/SE-Project-CMP-Tumbler/SE-Project-CMP-Front-end">
+    <img height="102" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/6d6b3709-51bb-47b4-a7bf-61fc6745aa2e"/>
+    </a>
 
+  
+  <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
+<img height="91" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/b6be8ea9-1c60-47e4-ae98-fdfa17808824"/>
+
+  </a>
+    <a href="https://github.com/AhmadJamal01/Galaxy-Surfers">
+<img height="91" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/71be96fa-ae20-4b6c-975b-1d9948e28549"/>
+    </a>
+      
   <a href="https://github.com/KeyTeachingKnowledge/Quizzery-React-Native">
-
-<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49572294/215483639-d2d422ac-c3ea-426c-99cb-65762e9efbf7.png">  </a>
-    <a href="https://github.com/CompetitionPortal-Developers/Solvee">
-    <img width="1156" alt="image" src="https://user-images.githubusercontent.com/49572294/178154527-ee25bd64-b172-4b42-ab9d-2a2c39f15153.png">
-
-</a>
-  <br><br>
-
+    <img height="105" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/d1226d3e-9684-4d30-af91-b6b5a3657753"/>
+  </a>
+  <a href="https://github.com/CompetitionPortal-Developers/Solvee">
+    <img height="105" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/21a53205-ea2c-40ac-b842-39101d5cbd93"/>
+  </a>
 </div>
 
 <div align='center'>
