@@ -1,8 +1,7 @@
 <div align='center'>
   
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:Ef0F0f,10f:a823a8&fontColor=ffffff">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:d823a8&fontColor=ffffff">
+<picture>
+<img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:d823a8&fontColor=ffffff">
 </picture>
 
   </div>
