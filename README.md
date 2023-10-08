@@ -41,6 +41,9 @@
 
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
+  <a href="https://github.com/JuliaAI/Imbalance.jl">
+  <img height="180" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/f2e1cb95-713a-4d7d-897b-22918a7d0e6c"/>
+  </a>
   <a href="https://github.com/TheBotiverse/Botiverse" >
 <img height="76" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/87ee4f65-1035-4394-b011-a426ef20d166"/>
   </a>
