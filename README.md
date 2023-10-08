@@ -85,7 +85,7 @@
     <img height="85" src="https://github.com/EssamWisam/EssamWisam/assets/49572294/21a53205-ea2c-40ac-b842-39101d5cbd93"/>
   </a>
 <br>
-  This only shows a selection of interesting projects I have worked/collaborated on. More/other projects can be found on my resume.
+More/other projects can be found on my resume.
 </div>
 
 <div align='center'>
