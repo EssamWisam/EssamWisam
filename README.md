@@ -85,7 +85,7 @@
     <img height="85" src="https://i.imgur.com/uxFeriB.png"/>
   </a>
 <br>
-More/other projects can be found on my resume.
+Many other projects can be found in my <a href="https://essamwisam.pages.dev">portfolio</a>
 </div>
 
 <div align='center'>
